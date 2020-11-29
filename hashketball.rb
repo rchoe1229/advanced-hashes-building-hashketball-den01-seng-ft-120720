@@ -1,6 +1,6 @@
 def game_hash 
   {
     :home => {
-      :team_
+      :team_name => 
     }
   }
